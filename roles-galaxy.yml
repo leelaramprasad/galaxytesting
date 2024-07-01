@@ -1,0 +1,6 @@
+
+---
+- name: checking the roles
+  hosts: all
+  roles:
+   - bsmeding.docker
